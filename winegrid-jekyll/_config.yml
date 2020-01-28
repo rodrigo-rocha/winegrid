@@ -1,0 +1,17 @@
+# Setup
+title:        Winegrid
+tagline:      
+baseurl:      ""
+locale:       "en"
+
+# About/contact
+author:
+  name:       
+  url:       
+
+# Gems
+plugins:
+  
+
+#Others
+markdown: kramdown
